@@ -12,7 +12,7 @@ from urllib.parse import urlparse, parse_qs, unquote
 
 # Setup Chrome options
 options = Options()
-# options.add_argument('--headless')  # Run in headless mode (no UI)
+options.add_argument('--headless')  # Run in headless mode (no UI)
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 
