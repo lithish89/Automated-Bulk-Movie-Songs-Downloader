@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+Downloaded_Songs/
+chromedriver
+*.xlsx
