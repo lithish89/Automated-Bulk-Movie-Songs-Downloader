@@ -1,4 +1,4 @@
-# Movie Songs Downloader 🎶
+# Automated-Bulk-Movie-Songs-Downloader 🎶
 
 This Python project streamlines and automates the process of downloading Telugu and other language (if available) movie songs from naasongs.com.co. Using Selenium and an Excel file with movie names, this tool allows you to download songs in bulk with ease, saving you the time and effort of manually searching and downloading each song.
 
